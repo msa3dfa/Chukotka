@@ -1,0 +1,47 @@
+body {
+  background-color: #eaf2ff;
+}
+
+
+
+
+.title {
+  background-color: #0b3a84;
+  color: white;
+  text-align: center;
+  font-weight: bold;
+  font-family: sans-serif;
+  font-size: 1.5rem;
+}
+
+.introduction {
+  
+  text-decoration: underline overline;
+
+}
+
+p {
+  font-size: 1.5rem;
+}
+
+h2 {
+  font-size: 1.75rem;
+  color: #0b3a84;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.roman {
+  background-color: #0b3a84; 
+  width: 315px;
+  text-align: center;
+  color: white;
+  display: inline-block;
+  margin-bottom: 50px;
+}
+
+img {
+  border: 5px solid #0b3a84;
+}
+
+
